@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @EnderGT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-EnderGT/EnderGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there i am EnderGT 👋
+🌱 I’m currently learning HTML, C++,JS
+✨ I'm working on C++
+📫 How to reach me: Discord - @EnderGT#8839
+Want Donate me? here EnderGT Need Donate
